@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "spring.datasource.maximum-pool-size",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.maximum-pool-size'"
+  },
+  {
+    "name": "spring.datasource.minimum-idle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.minimum-idle'"
+  },
+  {
+    "name": "spring.datasource.maxLifetime",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.maxLifetime'"
+  },
+  {
+    "name": "spring.datasource.connectionTimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.connectionTimeout'"
+  },
+  {
+    "name": "spring.datasource.idleTimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.idleTimeout'"
+  },
+  {
+    "name": "spring.datasource.validationTimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.validationTimeout'"
+  },
+  {
+    "name": "inb.app.version",
+    "type": "java.lang.String",
+    "description": "A description for 'inb.app.version'"
+  },
+  {
+    "name": "inb.app.name",
+    "type": "java.lang.String",
+    "description": "A description for 'inb.app.name'"
+  },
+  {
+    "name": "spring.datasource.maximunPoolSize",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.maximunPoolSize'"
+  }
+]}
